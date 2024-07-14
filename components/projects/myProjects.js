@@ -22,7 +22,7 @@ export const myProjects = [
   },
 
   {
-    projectTitle: 'edujar',
+    projectTitle: 'edujar.',
     category: ['react'],
     imgPath: 'edujar.png',
     url: 'https://edugar-abdullatifs-projects.vercel.app/',
