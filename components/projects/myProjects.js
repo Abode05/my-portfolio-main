@@ -18,7 +18,7 @@ export const myProjects = [
     category: ['react'],
     imgPath: 'abdullatif.jpg',
     url: '/',
-    desc: 'portfolio show about me and my projects and my skills',
+    desc: 'portfolio show about me, and my projects and my skills',
   },
 
   {
