@@ -7,7 +7,7 @@ export const myProjects = [
     desc: 'brain wave is chat ai it contains many services',
   },
   {
-    projectTitle: 'GPT-4 ',
+    projectTitle: 'GPT-3 ',
     category: ['react'],
     imgPath: 'gpt.png',
     url: '/',

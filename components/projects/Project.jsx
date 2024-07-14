@@ -77,7 +77,7 @@ const Project = () => {
                     className="h-[14rem] object-fill"
                   />
 
-                  <div style={{ width: '266px' }} className="box">
+                  <div style={{ width: '265px' }} className="box">
                     <h1 className="title">{item.projectTitle}</h1>
                     <p className="sub-title">{item.desc}</p>
                   </div>
